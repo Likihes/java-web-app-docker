@@ -41,7 +41,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome To Devops Word</h2>
-			<h3>Course @ jenkins, docker, k8s, Terraform, Asiable <h3>
+			<h3>Course @ jenkins, GitHub, docker, k8s, Terraform, Asiable <h3>
 		</div>	
 	</div>
 
